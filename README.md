@@ -12,6 +12,9 @@
 ###  NNDC : Neural-Network Digit Classification 
 [NNDC : Neural-Network Digit Classification] is my First basic ML project to classify hand written digits. Uses only one layer and learned how internals work.
 
+###  SRT : Student Risk Tracker 
+[SRT : Student Risk Tracker] is a Streamlit web application for educators to predict <b>Performance Risk</b> using ML model and proposes factors and assess probable student academic growth.
+
 <p align="right">
 .. working on few more projects 😉 </p>
 
